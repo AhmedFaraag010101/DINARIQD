@@ -204,15 +204,15 @@ SEO considerations include:
 
 ### Homepage
 
-![DINARIQD Homepage](screenshots/homepage.png)
+![DINARIQD Homepage](screenshots/homepage.PNG)
 
 ### Product Page
 
-![DINARIQD Product Page](screenshots/product-page.png)
+![DINARIQD Product Page](screenshots/product-page.PNG)
 
 ### Product Categories
 
-![DINARIQD Categories](screenshots/categories.png)
+![DINARIQD Categories](screenshots/categories.PNG)
 
 ## Development Highlights
 
